@@ -18,6 +18,6 @@
 ### (2)利用者関与の方法
 情報の取得は、本アプリケーションをアンインストールすることで中止・削除することができます。
 
-5.お問合せ先
+## 5.お問合せ先
 Mail : sora.volare@gmail.com
 Twitter : https://twitter.com/IdDrop_official
